@@ -1,0 +1,15 @@
+h1{
+  width: 250px;
+  padding: 2px;
+  background-color: #E6E6E6;
+  border-style: dashed;
+  border-width: 6px;
+  border-color: #000080;
+}
+button{
+  background: blue;
+  color: white;
+  border-color: blue;
+  border-radius: 8px;
+  font-size: 20px;
+}
